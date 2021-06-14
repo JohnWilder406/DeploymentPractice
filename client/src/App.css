@@ -1,0 +1,30 @@
+.App {
+  height: 2000px;
+  width: 100%;
+  background-color: rgb(185, 184, 184);
+}
+
+.mainheader {
+  padding: 20px 20px;
+  font-size: 24px;
+}
+
+.tableheader{
+  margin: 20px -5px;
+  font-size: 24px;
+  text-align: center;
+  width: 800px;
+  display: inline-block;
+}
+
+.headerlink {
+  margin: 0px 5px;
+}
+
+h2 {
+  margin: 15px;
+}
+
+h1 {
+  text-align: center;
+}
